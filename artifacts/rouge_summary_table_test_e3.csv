@@ -1,0 +1,4 @@
+system,ROUGE1,ROUGE2,ROUGEL,ROUGELsum
+base,29.21,5.67,17.18,17.2
+poca,28.42,5.14,16.95,16.95
+pocacov,28.03,4.91,16.58,16.57

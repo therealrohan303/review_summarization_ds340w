@@ -1,0 +1,3 @@
+system,avg_gold_pro_sentences,avg_gold_con_sentences,avg_sys_pro_sentences,avg_sys_con_sentences,avg_pro_ratio_error,share_with_both_pro_and_con
+base,3.945,1.655,4.06,0.785,0.18932317974423238,0.715
+poca,3.945,1.655,3.7,0.89,0.16461662241267505,0.805
